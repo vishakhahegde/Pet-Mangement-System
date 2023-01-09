@@ -1,0 +1,35 @@
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values(1,'Harriot','Cat',15,'Siamese',1,3,1,2);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values(2,'Enrica','Rabbit',9,'American Fuzzy Lop',4,1,2,3);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values(3,'Danni','Dog',7,'Husky',6,2,3,4);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values(4,'Leila','Rabbit',5,'Angora' ,2,1,9,1);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(5,'Horace','Dog',4,'Husky',4,1,10,5);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values(6,'Arvy','Rabbit',8,'American Fuzzy Lop',3,5,10,6);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(7,'Celka','Dog',4,'Poodle',7,15,9,6);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values(8,'Michelina','Bird',2,'Parrot',1,14,8,7);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(9,'Valerye','Cat',14,'Persian',2,13,7,10);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(10,'Evie','Hamster',7,'Syrian Hamster',6,12,7,9);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(11,'Olag','Dog',16,'Golden Retriever',5,11,6,10);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(12,'Daron','Turtle',12,'African Sideneck Turtle',5,10,6,2);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(13,'Roberto','Hamster',13,'Persian',4,8,1,1);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(14,'Mable','Cat',11,'Maine Coon',3,9,2,3);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(15,'Magdalene','Bird',1,'Duck',9,7,3,5);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(16,'Stanton','Dog',2,'Bulldog',1,6,5,2);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(17,'Tamiko','Bird',3,'Duck',2,5,4,6);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(18,'Kale','Rabbit',9,'Rex',3,4,2,7);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(19,'Sloan','Bird',7,'Parrot',2,3,3,7);
+insert into pet(pid,name,animal_type,age,breed,duration,oid,cid,aid) values
+(20,'Martguerita','Cat',7,'Siamese',10,2,8,8);
+
